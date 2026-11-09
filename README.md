@@ -1,2 +1,2 @@
-# Energy-Efficient-Resource-Allocation-in-6G-Internet-of-Things-Networks
-Federated Edge Intelligence for Energy-Efficient Resource Allocation in 6G Internet of  Things Networks
+# Lightweight Spatiotemporal-Multimodal Hand Gesture Recognition 
+Lightweight Spatiotemporal-Multimodal Hand Gesture Recognition Using Sparse Low-Rank Feature Learning and Uncertainty-Aware Adaptive Fusion
